@@ -1,0 +1,1 @@
+curl -u "shop1:123" "http://localhost:8080/book/list?sortBy=title&asc=false"
